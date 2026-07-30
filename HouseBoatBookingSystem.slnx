@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HouseBoat.API/HouseBoat.API.csproj" />
+    <Project Path="src/HouseBoat.Application/HouseBoat.Application.csproj" />
+    <Project Path="src/HouseBoat.Domain/HouseBoat.Domain.csproj" />
+    <Project Path="src/HouseBoat.Infrastructure/HouseBoat.Infrastructure.csproj" />
+    <Project Path="src/HouseBoat.Persistence/HouseBoat.Persistence.csproj" />
+  </Folder>
+</Solution>
