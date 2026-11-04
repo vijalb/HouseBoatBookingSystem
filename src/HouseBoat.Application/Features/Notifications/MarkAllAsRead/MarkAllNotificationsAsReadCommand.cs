@@ -1,0 +1,3 @@
+﻿namespace HouseBoat.Application.Features.Notifications.MarkAllAsRead;
+
+public record MarkAllNotificationsAsReadCommand;
